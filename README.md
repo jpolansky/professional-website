@@ -2,7 +2,7 @@
 
 #### Software, Security, Service
 
-![Image of Jeremy Polansky](https://github.com/jpolansky/professional-website/edit/main/images/jeremy-polansky.jpeg)
+![Image of Jeremy Polansky](https://github.com/jpolansky/professional-website/images/jeremy-polansky.jpeg)
 
 ## Bio
 
