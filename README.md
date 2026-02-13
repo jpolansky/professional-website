@@ -4,7 +4,7 @@
 
 ## Bio
 
-Jeremy is a technology professional focusing security and the software product lifecycle. He is currently a Director of DevSecOps at Calavista Software in Austin, TX, leading the intersection of DevOps, security, and connecting software with business goals of clients. Previously he helped clients with emerging AppSec program needs as a Security Solutions Architect and an AppSec Consultant before that. Jeremy serves as a Board Director of Texas-based A+ Federal Credit Union.
+Jeremy is a technology professional focused on security and the software product lifecycle. He has experience consulting with top global product security organizations and agentic startups. Previously, he helped clients with emerging AppSec program needs as a Security Solutions Architect and an AppSec Consultant before that. Jeremy serves as a Board Director of Texas-based A+ Federal Credit Union.
 
 ![Image of Jeremy Polansky](https://github.com/jpolansky/professional-website/blob/main/images/jeremy-polansky.jpeg)
 
